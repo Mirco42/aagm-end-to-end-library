@@ -1,0 +1,14 @@
+{
+    "clusterproperty": [
+        {
+            "name": "aagm.db",
+            "value": "aagm_db",
+            "id": "79a8d5f736c891aef67aff83c9729fbc"
+        },
+        {
+            "name": "cluster.hostname",
+            "value": "host.docker.internal",
+            "id": "0000000000000000fffffffffff5519f"
+        }
+    ]
+}
